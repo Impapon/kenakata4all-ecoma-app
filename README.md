@@ -1,0 +1,1 @@
+# kenakata4all-ecoma-app
