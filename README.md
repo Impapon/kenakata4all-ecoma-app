@@ -2,8 +2,8 @@
 
 
 ## Admin APP
-https://github.com/Impapon/medi-shop-client
+https://github.com/Impapon/kenakata4all-ecoma-app-admin
 
 ## User APP
 
-https://github.com/Impapon/medi-shop-server
+https://github.com/Impapon/kenakata4all-ecoma-app-user
